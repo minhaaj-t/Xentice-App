@@ -1,5 +1,5 @@
 # Xentos IT Workspace Finding App
-Xentos is a React Native application developed as part of the Woxro Global Assessment Test. This app helps IT professionals find suitable workspaces that cater to their specific needs, whether it's for coding, meetings, or collaboration.
+xentice is a React Native application developed as part of the Woxro Global Assessment Test. This app helps IT professionals find suitable workspaces that cater to their specific needs, whether it's for coding, meetings, or collaboration.
 
 ### Features
 Location-Based Search: Discover IT-friendly workspaces nearby using GPS.
