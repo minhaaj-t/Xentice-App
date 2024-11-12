@@ -1,6 +1,10 @@
 # Xentos IT Workspace Finding App
 xentice is a React Native application developed as part of the Woxro Global Assessment Test. This app helps IT professionals find suitable workspaces that cater to their specific needs, whether it's for coding, meetings, or collaboration.
 
+![WhatsApp Image 2022-11-02 at 13 17 00](https://github.com/user-attachments/assets/88602923-2941-4855-bb26-1fb484e6fb97)   
+![WhatsApp Image 2022-11-02 at 13 17 00 (1)](https://github.com/user-attachments/assets/56d0d9a9-8368-4d78-a9a1-6038b1456034)
+
+
 ### Features
 Location-Based Search: Discover IT-friendly workspaces nearby using GPS.
 Custom Filters: Filter by amenities such as high-speed internet, meeting rooms, and power outlets.
